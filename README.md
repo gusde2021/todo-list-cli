@@ -1,5 +1,3 @@
-## File: README.md
-# -------------------
 # Project Title: To-Do List CLI Application
 
 # Overview
